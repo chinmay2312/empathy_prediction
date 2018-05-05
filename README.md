@@ -12,3 +12,11 @@ https://www.kaggle.com/miroslavsabo/young-people-survey
 
 Soucre for dataset:
 https://www.kaggle.com/miroslavsabo/young-people-survey/downloads/responses.csv/2
+
+---
+Steps for running python file (hw5_CG.py):
+
+* Open terminal
+* Enter `python hw5_CG.py`
+	
+* The output would be ready in less than a minute
